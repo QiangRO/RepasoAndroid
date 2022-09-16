@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RepasoAndroid</string>
+    <string name="btnProcesar">Button</string>
+    <string name="etNombre" />
+    <string name="edtNombre">Nombre</string>
+    <string name="etMensaje">Mensaje</string>
+</resources>
